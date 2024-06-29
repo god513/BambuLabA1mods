@@ -16,9 +16,7 @@ I provided Images as well as links to the .3mf/ STL files
 ![LED11](https://github.com/god513/BambuLabA1mods/assets/163728970/2e7dee54-2f6f-4637-9791-3434ce71f4b7)
 
 # LED Bar
-Led Strip that attaches to the back of the A1 with a 3d printed holder.
-
-It connects directly to the 24V 4.2A Power supply of the A1.
+Led Strip that attaches to the back of the A1 and connects directly to the 24V 4.2A Power supply of the A1. I also designed my own holder for it.
 
 detailed Instrucions:
 https://makerworld.com/en/models/473361#profileId-383421
@@ -29,7 +27,7 @@ https://makerworld.com/en/models/473361#profileId-383421
 
 ![LED4](https://github.com/god513/BambuLabA1mods/assets/163728970/1ffada45-a11d-496c-b092-3b8b23d2a10e)
 
-# Poop bin/ deflector
+# Poop bin + deflector
 https://makerworld.com/en/models/496976#profileId-411341
 https://makerworld.com/en/models/123164?from=search#profileId-132720
 
